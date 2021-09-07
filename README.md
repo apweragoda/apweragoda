@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apweragoda
+- 👋 Hi, I’m Amoda Weragoda
 - 👀 I’m interested in Full-stack Developing
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on other content github
